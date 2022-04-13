@@ -1020,6 +1020,7 @@ ul{
     top: 0;
     background-color: var(--main-color);
     height: 100%;
+    transition: width 0.5s linear;
 }
 /* End Skills.................................................................. */
 
